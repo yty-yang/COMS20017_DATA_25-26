@@ -1,4 +1,4 @@
-## DDCS: Data Driven Computer Science - COMS20011 23-24
+## DATA: the data part of "Algorithms & Data" COMS20017 24-25
 The course will teach the basics of how to reason with data!
 
 
