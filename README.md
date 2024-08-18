@@ -25,7 +25,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 ## Labs:
 
 * TAs:
-
+     
 ## Teams:
 * The Teams Team is XXXXX.  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
 
