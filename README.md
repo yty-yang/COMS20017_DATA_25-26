@@ -24,7 +24,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 ## Labs:
 
-* TAs:
+* TAs: Louis Forster <louis.forster.2022@bristol.ac.uk>; Samson Main <ib21231@bristol.ac.uk>; Phillip Daniel <phillip.daniel.2022@bristol.ac.uk>; Luke Edwards <luke.edwards.2022@bristol.ac.uk>; Dhillon Thurairatnam <en22075@bristol.ac.uk>; Archie Preston <ei22565@bristol.ac.uk>; Louie Sinadjan <bn22907@bristol.ac.uk>; Yogadhveep Arora <yogadhveep.arora@bristol.ac.uk>
 
 ## Teams:
 * The Teams Team is XXXXX.  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
