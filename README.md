@@ -27,14 +27,18 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 * TAs: Louis Forster <louis.forster.2022@bristol.ac.uk>; Samson Main <ib21231@bristol.ac.uk>; Phillip Daniel <phillip.daniel.2022@bristol.ac.uk>; Luke Edwards <luke.edwards.2022@bristol.ac.uk>; Dhillon Thurairatnam <en22075@bristol.ac.uk>; Archie Preston <ei22565@bristol.ac.uk>; Louie Sinadjan <bn22907@bristol.ac.uk>; Yogadhveep Arora <yogadhveep.arora@bristol.ac.uk>
 
 ## Teams:
-* The Teams Team is XXXXX.  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
+* The unit is on Teams at XXXXX.  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk. Please make sure you set NOTIFICATIONS to ON for this channel. The channel should be used by you for raising queries on whatever aspects of the COMS20017 Data unit - such queries will not normally be answered via email.
 
 ## Exam info:
-
+Info will appear here in due course.
 
 ## Past exam papers:
-
+Past paper examples will appear here in due course.
 
 ## Weekly Lecture materials
 
-### Introduction (Majid)
+### Introduction, Data Measures & Other Characteristics (Majid)
+
+### Regression and Classification (Alin)
+
+### Feartures (Majid)
