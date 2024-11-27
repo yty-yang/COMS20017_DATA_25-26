@@ -15,7 +15,13 @@ THIS IS A HOLDING PAGE with incomplete info.
 
 * Labs (starting in January).  To tell what group you're in look in your Outlook calendar.
 
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 ## Lecture recordings:
 All lecture recordings eventually appear on the Re/Play system in BlackBoard afew hours after the event. Click on Re/Play on the left menu bar on the BB course webpage to find them.
