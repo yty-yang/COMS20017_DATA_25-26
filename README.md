@@ -20,9 +20,11 @@ THIS IS A HOLDING PAGE with incomplete info.
 
 ## Schedule:
 * Lectures:
-
-* Labs (starting in January).  To tell what group you're in look in your Outlook calendar.
-
+  - Mondays 3pm in PHYS BLDG G42 POWELL
+  - Thursdays 2pm in PHYS BLDG G42 POWELL
+* Labs (starting Jan 29th).  To tell what group you're in look in your Outlook calendar.  You will see one of the following two slots:
+  - Group 1: Fridays 1-2pm in MVB 2.11
+  - Group 2: Fridays 2-3pm in MVB 2.11
 
 ## Lecture recordings:
 All lecture recordings eventually appear on the Re/Play system in BlackBoard afew hours after the event. Click on Re/Play on the left menu bar on the BB course webpage to find them.
