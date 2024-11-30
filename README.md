@@ -29,24 +29,45 @@ THIS IS A HOLDING PAGE with incomplete info.
 ## Lecture recordings:
 All lecture recordings eventually appear on the Re/Play system in BlackBoard afew hours after the event. Click on Re/Play on the left menu bar on the BB course webpage to find them.
 
-
-
 ## Labs:
-
+```diff
++ The labs are starting on Jan 17th.
++ The labs come with exercises as Python notebook.  A new set of exercises will be released every _TWO_ weeks.
++ Material in the labs may appear in the exam.
++ *The labs are the primary route for feedback on all aspects of the course, including lectures, any question sheets and exams, not just the labs!!!!*
++ The lab exercises will be released in the /labs/ folder.
 * TAs: Louis Forster <louis.forster.2022@bristol.ac.uk>; Samson Main <ib21231@bristol.ac.uk>; Phillip Daniel <phillip.daniel.2022@bristol.ac.uk>; Luke Edwards <luke.edwards.2022@bristol.ac.uk>; Dhillon Thurairatnam <en22075@bristol.ac.uk>; Archie Preston <ei22565@bristol.ac.uk>; Louie Sinadjan <bn22907@bristol.ac.uk>; Yogadhveep Arora <yogadhveep.arora@bristol.ac.uk>
+```
 
 ## Teams:
-* The unit is on Teams at XXXXX.  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk. Please make sure you set NOTIFICATIONS to ON for this channel. The channel should be used by you for raising queries on whatever aspects of the COMS20017 Data unit - such queries will not normally be answered via email.
+* The unit is on Teams at XXXXX.  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk. Please make sure you set NOTIFICATIONS to ON for this channel. You should use the channel for raising queries on whatever aspects of the COMS20017 Data unit - such queries will not normally be answered via email.
 
 ## Exam info:
-Info will appear here in due course.
+* This Data part of the unit is assessed 100% by a multiple-choice exam.
+* The exam is closed-book (so no additional materials are allowed).
+* If you have any questions regarding alternative exam arrangements, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
+* Further info will appear here in due course.
 
 ## Past exam papers:
 Past paper examples will appear here in due course.
+<!-- | 21/22 | [pdf](/Past_Exams/main_2122_answers.pdf) | 5,7,10,17,18,19,20 |
+| 22/23 | [pdf](/Past_Exams/main_2223_answers.pdf) | 2,3,8 |
+Important notes:
+* We rejigged the course content a bit last year, and also again this year, so some questions are no longer relevant.  These questions are in the "Questions to IGNORE!" column.
+-->
 
 ## Weekly Lecture materials
 
 ### Introduction, Data Measures & Other Characteristics (Majid)
+
+#### Week 13: 13/01/2025
+| Lecture, etc. |  Slides, etc. |
+| ------- | ------ |
+
+#### Week 14: 20/01/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+
 
 ### Regression and Classification (Alin)
 
