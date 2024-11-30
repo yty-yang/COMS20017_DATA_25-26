@@ -31,12 +31,14 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 ## Labs:
 ```diff
-+ The labs are starting on Jan 17th.
 + The labs come with exercises as Python notebook.  A new set of exercises will be released every _TWO_ weeks.
 + Material in the labs may appear in the exam.
-+ *The labs are the primary route for feedback on all aspects of the course, including lectures, any question sheets and exams, not just the labs!!!!*
++ *The labs are the primary route for feedback on all aspects of the course, including lectures, any problem sheets and exams, not just the labs!!!!*
 + The lab exercises will be released in the /labs/ folder.
-* TAs: Louis Forster <louis.forster.2022@bristol.ac.uk>; Samson Main <ib21231@bristol.ac.uk>; Phillip Daniel <phillip.daniel.2022@bristol.ac.uk>; Luke Edwards <luke.edwards.2022@bristol.ac.uk>; Dhillon Thurairatnam <en22075@bristol.ac.uk>; Archie Preston <ei22565@bristol.ac.uk>; Louie Sinadjan <bn22907@bristol.ac.uk>; Yogadhveep Arora <yogadhveep.arora@bristol.ac.uk>
+* TAs: Louis Forster <louis.forster.2022@bristol.ac.uk>; Samson Main <ib21231@bristol.ac.uk>;
+Phillip Daniel <phillip.daniel.2022@bristol.ac.uk>; Luke Edwards <luke.edwards.2022@bristol.ac.uk>;
+Dhillon Thurairatnam <en22075@bristol.ac.uk>; Archie Preston <ei22565@bristol.ac.uk>;
+Louie Sinadjan <bn22907@bristol.ac.uk>; Yogadhveep Arora <yogadhveep.arora@bristol.ac.uk>
 ```
 
 ## Teams:
