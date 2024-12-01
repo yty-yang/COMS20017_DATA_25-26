@@ -60,8 +60,10 @@ Important notes:
 
 ## Weekly Lecture materials
 
-### Introduction, Data Measures & Other Characteristics (Majid)
-
+```diff
+! ### Introduction, Data Measures & Other Characteristics (Majid)
+```
+ 
 #### Week 13: 13/01/2025
 | Lecture, etc. |  Slides, etc. |
 | ------- | ------ |
