@@ -45,7 +45,7 @@ All lecture recordings eventually appear on the Re/Play system in Blackboard a f
 Phillip Daniel <phillip.daniel.2022@bristol.ac.uk>; Luke Edwards <luke.edwards.2022@bristol.ac.uk>;
 Dhillon Thurairatnam <en22075@bristol.ac.uk>; Archie Preston <ei22565@bristol.ac.uk>;
 Louie Sinadjan <bn22907@bristol.ac.uk>; Yogadhveep Arora <yogadhveep.arora@bristol.ac.uk>
-```
+
 
 ## Teams:
 * The unit is on Teams at [[COMS20017: Algorithms & Data 24-25]](https://teams.microsoft.com/l/team/19%3AC3pt4BfooTltDJ9rfiA7YLVVMK39ksdRN9t3H6R9EQQ1%40thread.tacv2/conversations?groupId=7cdfd411-53c6-47a6-8bab-44073d5c6fb4&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk. Please make sure you set NOTIFICATIONS to ON for this channel.
