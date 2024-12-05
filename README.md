@@ -19,23 +19,29 @@ THIS IS A HOLDING PAGE with incomplete info.
 - [Alin Achim](https://amachim.blogs.bristol.ac.uk/) [alin.achim@bristol.ac.uk]
 
 ## Schedule:
-* Lectures:
+```diff
+* Lectures: (Weeks 13-24, but see Exception below regarding Week 15!)
   - Mondays 3pm in PHYS BLDG G42 POWELL
   - Thursdays 2pm in PHYS BLDG G42 POWELL
-* Labs (starting Jan 29th).  To tell what group you're in look in your Outlook calendar.  You will see one of the following two slots:
+  - EXCEPTION: There will be no lectures in Week 15. The two lectures for that week are re-assigned as follows:
+     - Week 14: Thursday 3pm in PHYS BLDG G42 POWELL (this lecture follows the regular 2pm Thursday lecture)
+     - Week 17: Thursday 3pm in PHYS BLDG G42 POWELL (this lecture follows the regular 2pm Thursday lecture)
+  - No lectures in Reading Week 18.
+* Labs (1 hour per week, starting Jan 17th).  To tell what group you're in, look in your Outlook calendar.  You will see one of the following two slots:
   - Group 1: Fridays 1-2pm in MVB 2.11
   - Group 2: Fridays 2-3pm in MVB 2.11
+```
 
 ## Lecture recordings:
 All lecture recordings eventually appear on the Re/Play system in Blackboard a few hours after the event. Click on Re/Play on the left menu bar on the BB course webpage to find them.
 
 ## Labs:
-```diff
+
 + The labs come with exercises as Python notebook.  A new set of exercises will be released every _TWO_ weeks.
 + Material in the labs may appear in the exam.
 + The labs are the primary route for feedback on all aspects of the course, including lectures, any problem sheets and exams, not just the labs!
 + The lab exercises will be released in the /labs/ folder.
-TAs: Louis Forster <louis.forster.2022@bristol.ac.uk>; Samson Main <ib21231@bristol.ac.uk>;
++ TAs: Louis Forster <louis.forster.2022@bristol.ac.uk>; Samson Main <ib21231@bristol.ac.uk>;
 Phillip Daniel <phillip.daniel.2022@bristol.ac.uk>; Luke Edwards <luke.edwards.2022@bristol.ac.uk>;
 Dhillon Thurairatnam <en22075@bristol.ac.uk>; Archie Preston <ei22565@bristol.ac.uk>;
 Louie Sinadjan <bn22907@bristol.ac.uk>; Yogadhveep Arora <yogadhveep.arora@bristol.ac.uk>
