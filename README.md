@@ -20,14 +20,14 @@ THIS IS A HOLDING PAGE with incomplete info.
 
 ## Schedule:
 ```diff
-* Lectures: (Weeks 13-24, but see Exception below regarding Week 15!)
++ Lectures: (Weeks 13-24, but see Exception below regarding Week 15!)
   - Mondays 3pm in PHYS BLDG G42 POWELL
   - Thursdays 2pm in PHYS BLDG G42 POWELL
   - EXCEPTION: There will be no lectures in Week 15. The two lectures for that week are re-assigned as follows:
      - Week 14: Thursday 3pm in PHYS BLDG G42 POWELL (this lecture follows the regular 2pm Thursday lecture)
      - Week 17: Thursday 3pm in PHYS BLDG G42 POWELL (this lecture follows the regular 2pm Thursday lecture)
   - No lectures in Reading Week 18.
-* Labs (1 hour per week, starting Jan 17th).  To tell what group you're in, look in your Outlook calendar.  You will see one of the following two slots:
++ Labs (1 hour per week, starting Jan 17th).  To tell what group you're in, look in your Outlook calendar.  You will see one of the following two slots:
   - Group 1: Fridays 1-2pm in MVB 2.11
   - Group 2: Fridays 2-3pm in MVB 2.11
 ```
