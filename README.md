@@ -37,11 +37,11 @@ All lecture recordings eventually appear on the Re/Play system in Blackboard a f
 
 ## Labs:
 
-+ The labs come with exercises as Python notebook.  A new set of exercises will be released every _TWO_ weeks.
-+ Material in the labs may appear in the exam.
-+ The labs are the primary route for feedback on all aspects of the course, including lectures, any problem sheets and exams, not just the labs!
-+ The lab exercises will be released in the /labs/ folder.
-+ TAs: Louis Forster <louis.forster.2022@bristol.ac.uk>; Samson Main <ib21231@bristol.ac.uk>;
+* The labs come with exercises as Python notebook.  A new set of exercises will be released every _TWO_ weeks.
+* Material in the labs may appear in the exam.
+* The labs are the primary route for feedback on all aspects of the course, including lectures, any problem sheets and exams, not just the labs!
+* The lab exercises will be released in the /labs/ folder.
+* TAs: Louis Forster <louis.forster.2022@bristol.ac.uk>; Samson Main <ib21231@bristol.ac.uk>;
 Phillip Daniel <phillip.daniel.2022@bristol.ac.uk>; Luke Edwards <luke.edwards.2022@bristol.ac.uk>;
 Dhillon Thurairatnam <en22075@bristol.ac.uk>; Archie Preston <ei22565@bristol.ac.uk>;
 Louie Sinadjan <bn22907@bristol.ac.uk>; Yogadhveep Arora <yogadhveep.arora@bristol.ac.uk>
@@ -60,7 +60,7 @@ You should use the Teams channel for raising queries on whatever aspects of the 
 
 ## Past exam papers:
 Past paper examples will appear here in due course.
-<!-- | 21/22 | [pdf](/Past_Exams/main_2122_answers.pdf) | 5,7,10,17,18,19,20 |
+<!--- | 21/22 | [pdf](/Past_Exams/main_2122_answers.pdf) | 5,7,10,17,18,19,20 |
 | 22/23 | [pdf](/Past_Exams/main_2223_answers.pdf) | 2,3,8 |
 Important notes:
 * We rejigged the course content a bit last year, and also again this year, so some questions are no longer relevant.  These questions are in the "Questions to IGNORE!" column.
