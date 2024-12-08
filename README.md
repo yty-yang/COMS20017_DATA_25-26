@@ -1,5 +1,5 @@
-## DATA: the data part of "Algorithms & Data" COMS20017 24-25
-The course will teach the basics of how to reason with data!
+## DATA: the data part of "Algorithms & Data" COMS20017 (TB2) 24-25
+This TB2 part of the Algorithms & Data unit will teach the basics of how to reason with data!
 
 
 
@@ -55,7 +55,7 @@ You should use the Teams channel for raising queries on whatever aspects of the 
 ## Exam info:
 * This Data part of the unit is assessed 100% by a multiple-choice exam.
 * The exam is closed-book (so no additional materials are allowed).
-* Past exam papers (on COMS20011) included a formulae sheet. This is NOT THE CASE FOR THE DATA PART OF COMS20017. 
+* Past exam papers (on COMS20011) included a formulae sheet. This is NOT THE CASE FOR THE DATA PART OF COMS20017.
 * If you have any questions regarding alternative exam arrangements, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
 * Further info will appear here in due course.
 
