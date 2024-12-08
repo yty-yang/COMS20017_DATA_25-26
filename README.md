@@ -50,21 +50,18 @@ Louie Sinadjan <bn22907@bristol.ac.uk>; Yogadhveep Arora <yogadhveep.arora@brist
 ## Teams:
 * The unit is on Teams at [[COMS20017: Algorithms & Data 24-25]](https://teams.microsoft.com/l/team/19%3AC3pt4BfooTltDJ9rfiA7YLVVMK39ksdRN9t3H6R9EQQ1%40thread.tacv2/conversations?groupId=7cdfd411-53c6-47a6-8bab-44073d5c6fb4&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk. Please make sure you set NOTIFICATIONS to ON for this channel.
 
-You should use the Teams channel for raising queries on whatever aspects of the COMS20017 Data unit - such queries will not normally be answered via email or via personal Teams messages. Please do not get upset if your query is not answered by email/Teams when on a one-to-one basis.
+You should use the Teams channel for raising queries on whatever aspects of the COMS20017 Data unit - such queries will not normally be answered via email or via personal Teams messages. Please do not get upset if your query is not answered by email/Teams when on a one-to-one basis. Post your query on the unit Teams channel for the benefit of others who may have the same query.
 
 ## Exam info:
 * This Data part of the unit is assessed 100% by a multiple-choice exam.
 * The exam is closed-book (so no additional materials are allowed).
+* Past exam papers included a formulae sheet. This is NO LONGER AVAILABLE.
 * If you have any questions regarding alternative exam arrangements, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
 * Further info will appear here in due course.
 
 ## Past exam papers:
 Past paper examples will appear here in due course.
-<!--- | 21/22 | [pdf](/Past_Exams/main_2122_answers.pdf) | 5,7,10,17,18,19,20 |
-| 22/23 | [pdf](/Past_Exams/main_2223_answers.pdf) | 2,3,8 |
-Important notes:
-* We rejigged the course content a bit last year, and also again this year, so some questions are no longer relevant.  These questions are in the "Questions to IGNORE!" column.
--->
+
 
 ## Weekly Lecture materials
 
