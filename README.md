@@ -81,4 +81,4 @@ Past paper examples will appear here in due course.
 
 ### Regression and Classification (Alin)
 
-### Feartures (Majid)
+### Features (Majid)
