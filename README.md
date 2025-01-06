@@ -56,7 +56,7 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 ## Exam info:
 * This Data part of the unit is assessed 100% by a multiple-choice exam.
 * The exam is closed-book (so no additional materials are allowed).
-* Past exam papers (on COMS20011) included a formulae sheet. This is NOT THE CASE FOR THE DATA PART OF COMS20017.
+* Past exam papers (on COMS20011 "Data-Driven CS") included a formulae sheet. This is NOT THE CASE FOR THE DATA PART OF COMS20017.
 * If you have any questions regarding alternative exam arrangements, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
 * Further info will appear here in due course.
 
