@@ -73,8 +73,9 @@ Past paper examples will appear here in due course.
 #### Week 13: 13/01/2025
 | Lecture, etc. |  Slides, etc. |
 | ------- | ------ |
-<!--- to add colour!
+
 | MM01. Intro to COMS20011 - a bit fishy! | [[pdf]](Slides/COMS20017-MMLec01.pdf) |
+<!--- to add colour!
 | MM02. Sampling, Distance Measures | [[pdf]](Slides/COMS20017-MMLec02.pdf) |
 | Problem Sheet 01 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM01.pdf)  |
 -->
