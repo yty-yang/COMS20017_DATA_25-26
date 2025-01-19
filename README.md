@@ -82,7 +82,7 @@ Past paper examples will appear here in due course.
 #### Week 14: 20/01/2025
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
-
+| MM03. Data Characteristics, Covariance, Eigen Analysis, Outliers | [[pdf]](Slides/COMS20017-MMLec03.pdf) |
 
 ### Regression and Classification (Alin)
 
