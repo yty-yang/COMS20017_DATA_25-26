@@ -76,6 +76,7 @@ Past paper examples will appear here in due course.
 | MM01. Intro to COMS20017 - a bit fishy! | [[pdf]](Slides/COMS20017-MMLec01.pdf) |
 | MM02. Sampling, Distance Measures | [[pdf]](Slides/COMS20017-MMLec02.pdf) |
 | Problem Sheet 01 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM01.pdf)  |
+| Problem Sheet 01 (Solutions) | [[pdf]](ProblemSheets/ProblemSheet-MM01-Solutions.pdf)  |
 <!--- to add colour!
 -->
 
