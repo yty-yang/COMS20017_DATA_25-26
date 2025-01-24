@@ -86,6 +86,6 @@ Past paper examples will appear here in due course.
 | MM03. Data Characteristics, Covariance, Eigen Analysis, Outliers | [[pdf]](Slides/COMS20017-MMLec03.pdf) |
 | Problem Sheet 02 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM02.pdf)  |
 
-### Regression and Classification (Alin)
+### Estimation, Regression, and Classification (Alin)
 
 ### Features (Majid)
