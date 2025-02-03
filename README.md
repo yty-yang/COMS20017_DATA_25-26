@@ -90,4 +90,9 @@ Past paper examples will appear here in due course.
 
 ### Estimation, Regression, and Classification (Alin)
 
+#### Week 16: 03/02/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| AA03. MVUE & CRLB | [[pdf]](Slides/COMS20017-AALec03.pdf) |
+
 ### Features (Majid)
