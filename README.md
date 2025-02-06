@@ -95,6 +95,6 @@ Past paper examples will appear here in due course.
 | ------- | ------ |
 | AA03. MVUE & CRLB | [[pdf]](Slides/COMS20017-AALec03.pdf) |
 | AA04. Maximum Likelihood Estimation (MLE) | [[pdf]](Slides/COMS20017-AALec04.pdf) |
-| Mathematical preliminaries | [[pdf]](Notes/Maths_prereqs.pdf) |
+| More mathematical preliminaries | [[pdf]](Notes/Maths_prereqs.pdf) |
 
 ### Features (Majid)
