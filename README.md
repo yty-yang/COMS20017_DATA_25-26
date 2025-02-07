@@ -85,6 +85,7 @@ Past paper examples will appear here in due course.
 | ------- | ------ |
 | MM03. Data Characteristics, Covariance, Eigen Analysis, Outliers | [[pdf]](Slides/COMS20017-MMLec03.pdf) |
 | Problem Sheet 02 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM02.pdf)  |
+| Problem Sheet 02 (Solutions) | [[pdf]](ProblemSheets/ProblemSheet-MM02-Solutions.pdf)  |
 | AA01. Intro to Estimation Theory | [[pdf]](Slides/COMS20017-AALec01.pdf) |
 | AA02. Linear Algebra Basics, Stochastic Processes | [[pdf]](Slides/COMS20017-AALec02.pdf) |
 
