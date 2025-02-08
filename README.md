@@ -98,4 +98,9 @@ Past paper examples will appear here in due course.
 | AA04. Maximum Likelihood Estimation (MLE) | [[pdf]](Slides/COMS20017-AALec04.pdf) |
 | More mathematical preliminaries | [[pdf]](Notes/Maths_prereqs.pdf) |
 
+#### Week 17: 10/02/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| AA05. Least Squares Estimation and the Method of Moments | [[pdf]](Slides/COMS20017-AALec05.pdf) |
+
 ### Features (Majid)
