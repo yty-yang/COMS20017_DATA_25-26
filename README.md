@@ -102,5 +102,6 @@ Past paper examples will appear here in due course.
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | AA05. Least Squares Estimation and the Method of Moments | [[pdf]](Slides/COMS20017-AALec05.pdf) |
+| AA06. Bayesian Estimation | [[pdf]](Slides/COMS20017-AALec06.pdf) |
 
 ### Features (Majid)
