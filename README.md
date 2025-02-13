@@ -103,6 +103,6 @@ Past paper examples will appear here in due course.
 | ------- | ------ |
 | AA05. Least Squares Estimation and the Method of Moments | [[pdf]](Slides/COMS20017-AALec05.pdf) |
 | AA06. Bayesian Estimation | [[pdf]](Slides/COMS20017-AALec06.pdf) |
-| AA07. Examples of MAP Estimators | [[pdf]](Slides/COMS20017-AALec07.pdf) |
+| AA07. MAP Estimation Examples | [[pdf]](Slides/COMS20017-AALec07.pdf) |
 
 ### Features (Majid)
