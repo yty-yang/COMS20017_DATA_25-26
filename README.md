@@ -106,7 +106,7 @@ Past paper examples will appear here in due course.
 | AA07. MAP Estimation Examples | [[pdf]](Slides/COMS20017-AALec07.pdf) |
 | Problem Sheet - Parameter Estimation | [[pdf]](ProblemSheets/ProblemSheet-AA01.pdf)  |
 
-#### Week 19: 22/02/2025
+#### Week 19: 24/02/2025
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | AA08. Classification | [[pdf]](Slides/COMS20017-AALec08.pdf) |
