@@ -58,11 +58,17 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 * The exam is closed-book (so no additional materials are allowed).
 * Past exam papers (on COMS20011 "Data-Driven CS") included a formulae sheet. This is NOT THE CASE FOR THE DATA PART OF COMS20017.
 * If you have any questions regarding alternative exam arrangements, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
-* Further info will appear here in due course.
 
-## Past exam papers:
-Past paper examples will appear here in due course.
+## Past exam papers of COMS20011:
+| Year  | Paper | Questions to IGNORE! |
+| ----- | ----- | -------------------- |
+| 22/23 | [pdf](/Past_Exams/main_2223_answers.pdf) | 2,3,8 |
+| 23/24 | [pdf](/Past_Exams/main_2324_answers.pdf) | - |
 
+Important notes:
+* Please note, these are past exam papers for COMS20011 unit.
+* We rejigged the course content a bit over the last couple of years so some questions are no longer relevant.  These questions are in the "Questions to IGNORE!" column. 
+---
 
 ## Weekly Lecture materials
 
