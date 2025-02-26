@@ -115,5 +115,6 @@ Important notes:
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | AA08. Classification | [[pdf]](Slides/COMS20017-AALec08.pdf) |
+| AA09. Regression | [[pdf]](Slides/COMS20017-AALec09.pdf) |
 
 ### Features (Majid)
