@@ -121,4 +121,5 @@ Important notes:
 
 #### Week 20: 03/03/2025
 | Lecture, etc. | Slides, etc. |
+| ------- | ------ |
 | MM03. Signals & Frequencies | [[pdf]](Slides/COMS20017-MMLec04.pdf) |
