@@ -67,7 +67,7 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 
 Important notes:
 * Please note, these are past exam papers for COMS20011 unit.
-* We have rejigged the course content a bit over the last couple of years so some questions are no longer relevant.  These questions are in the "Questions to IGNORE!" column. 
+* We have rejigged the course content a bit over the last couple of years so some questions are no longer relevant.  These questions are in the "Questions to IGNORE!" column.
 ---
 
 ## Weekly Lecture materials
@@ -118,3 +118,7 @@ Important notes:
 | AA09. Regression | [[pdf]](Slides/COMS20017-AALec09.pdf) |
 
 ### Features (Majid)
+
+#### Week 20: 03/03/2025
+| Lecture, etc. | Slides, etc. |
+| MM03. Signals & Frequencies | [[pdf]](Slides/COMS20017-MMLec04.pdf) |
