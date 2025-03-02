@@ -110,6 +110,7 @@ Important notes:
 | AA06. Bayesian Estimation | [[pdf]](Slides/COMS20017-AALec06.pdf) |
 | AA07. MAP Estimation Examples | [[pdf]](Slides/COMS20017-AALec07.pdf) |
 | Problem Sheet - Parameter Estimation | [[pdf]](ProblemSheets/ProblemSheet-AA01.pdf)  |
+| Problem Sheet - Parameter Estimation - Solutions | [[pdf]](ProblemSheets/ProblemSheet-AA01-Solutions.pdf)  |
 
 #### Week 19: 24/02/2025
 | Lecture, etc. | Slides, etc. |
