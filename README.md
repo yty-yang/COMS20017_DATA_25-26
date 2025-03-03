@@ -56,19 +56,24 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 ## Exam info:
 * This Data part of the unit is assessed 100% by a multiple-choice exam.
 * The exam is closed-book (so no additional materials are allowed).
-* Past exam papers (on COMS20011 "Data-Driven CS") included a formulae sheet. This is NOT THE CASE FOR THE DATA PART OF COMS20017.
+* Past exam papers (on COMS20011 "Data-Driven CS") included a formulae sheet, as can be seen in the papers below. This WILL NOT BE THE CASE FOR THE DATA PART OF COMS20017.
 * If you have any questions regarding alternative exam arrangements, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
-* Further info will appear here in due course.
 
-## Past exam papers:
-Past paper examples will appear here in due course.
+## Past exam papers of COMS20011:
+| Year  | Paper | Questions to IGNORE! |
+| ----- | ----- | -------------------- |
+| 22/23 | [pdf](/Past_Exams/main_2223_answers.pdf) | 2,3,8 |
+| 23/24 | [pdf](/Past_Exams/main_2324_answers.pdf) | 14 |
 
+Important notes:
+* Please note, these are past exam papers for COMS20011 unit.
+* We have rejigged the course content a bit over the last couple of years so some questions are no longer relevant.  These questions are in the "Questions to IGNORE!" column.
+---
 
 ## Weekly Lecture materials
 
 
 ### Introduction, Data Measures & Other Characteristics (Majid)
-
 
 #### Week 13: 13/01/2025
 | Lecture, etc. |  Slides, etc. |
@@ -84,7 +89,38 @@ Past paper examples will appear here in due course.
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | MM03. Data Characteristics, Covariance, Eigen Analysis, Outliers | [[pdf]](Slides/COMS20017-MMLec03.pdf) |
+| Problem Sheet 02 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM02.pdf)  |
+| Problem Sheet 02 (Solutions) | [[pdf]](ProblemSheets/ProblemSheet-MM02-Solutions.pdf)  |
+| AA01. Intro to Estimation Theory | [[pdf]](Slides/COMS20017-AALec01.pdf) |
+| AA02. Linear Algebra Basics, Stochastic Processes | [[pdf]](Slides/COMS20017-AALec02.pdf) |
 
-### Regression and Classification (Alin)
+### Estimation, Regression, and Classification (Alin)
+
+#### Week 16: 03/02/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| AA03. MVUE & CRLB | [[pdf]](Slides/COMS20017-AALec03.pdf) |
+| AA04. Maximum Likelihood Estimation (MLE) | [[pdf]](Slides/COMS20017-AALec04.pdf) |
+| More mathematical preliminaries | [[pdf]](Notes/Maths_prereqs.pdf) |
+
+#### Week 17: 10/02/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| AA05. Least Squares Estimation and the Method of Moments | [[pdf]](Slides/COMS20017-AALec05.pdf) |
+| AA06. Bayesian Estimation | [[pdf]](Slides/COMS20017-AALec06.pdf) |
+| AA07. MAP Estimation Examples | [[pdf]](Slides/COMS20017-AALec07.pdf) |
+| Problem Sheet - Parameter Estimation | [[pdf]](ProblemSheets/ProblemSheet-AA01.pdf)  |
+| Problem Sheet - Parameter Estimation - Solutions | [[pdf]](ProblemSheets/ProblemSheet-AA01-Solutions.pdf)  |
+
+#### Week 19: 24/02/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| AA08. Classification | [[pdf]](Slides/COMS20017-AALec08.pdf) |
+| AA09. Regression | [[pdf]](Slides/COMS20017-AALec09.pdf) |
 
 ### Features (Majid)
+
+#### Week 20: 03/03/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| MM04. Signals & Frequencies | [[pdf]](Slides/COMS20017-MMLec04.pdf) |
