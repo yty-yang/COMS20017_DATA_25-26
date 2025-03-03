@@ -60,10 +60,10 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 * If you have any questions regarding alternative exam arrangements, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
 
 ## Past exam papers of COMS20011:
-| Year  | Paper | Questions to IGNORE! |
+| Year  | Paper | Answers | Questions to IGNORE! |
 | ----- | ----- | -------------------- |
-| 22/23 | [pdf](/Past_Exams/main_2223_answers.pdf) | 2,3,8 |
-| 23/24 | [pdf](/Past_Exams/main_2324_answers.pdf) | 14 |
+| 22/23 | [pdf](/Past_Exams/main_2223.pdf) | [pdf](/Past_Exams/main_2223_answers.pdf) |2,3,8 |
+| 23/24 | [pdf](/Past_Exams/main_2324.pdf) | [pdf](/Past_Exams/main_2324_answers.pdf) |14 |
 
 Important notes:
 * Please note, these are past exam papers for COMS20011 unit.
@@ -124,3 +124,4 @@ Important notes:
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | MM04. Signals & Frequencies | [[pdf]](Slides/COMS20017-MMLec04.pdf) |
+| Problem Sheet 03 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM03.pdf)  |
