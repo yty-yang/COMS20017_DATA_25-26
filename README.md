@@ -124,4 +124,6 @@ Important notes:
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | MM04. Signals & Frequencies | [[pdf]](Slides/COMS20017-MMLec04.pdf) |
+| MM05. Fourier Transform | [[pdf]](Slides/COMS20017-MMLec05.pdf) |
 | Problem Sheet 03 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM03.pdf)  |
+| Code to play with  |  [[sines.py]](ProblemSheets/sines.py)   |
