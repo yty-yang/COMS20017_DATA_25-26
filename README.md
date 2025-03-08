@@ -132,4 +132,4 @@ Important notes:
 #### Week 21: 10/03/2025
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
-| MM04. More about Features | [[pdf]](Slides/COMS20017-MMLec06.pdf) |
+| MM06. More about Features | [[pdf]](Slides/COMS20017-MMLec06.pdf) |
