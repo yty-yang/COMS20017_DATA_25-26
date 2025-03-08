@@ -128,3 +128,8 @@ Important notes:
 | Problem Sheet 03 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM03.pdf)  |
 | Problem Sheet 03 (Solutions) | [[pdf]](ProblemSheets/ProblemSheet-MM03-Solutions.pdf)  |
 | Code to play with  |  [[sines.py]](ProblemSheets/sines.py)   |
+
+#### Week 21: 10/03/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| MM04. More about Features | [[pdf]](Slides/COMS20017-MMLec06.pdf) |
