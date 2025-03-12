@@ -133,3 +133,10 @@ Important notes:
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | MM06. More about Features | [[pdf]](Slides/COMS20017-MMLec06.pdf) |
+| MM06. PCA | [[pdf]](Slides/COMS20017-MMLec07.pdf) |
+
+#### Week 22: 17/03/2025
+
+#### Week 23: 17/03/2025
+
+#### Week 24: 17/03/2025
