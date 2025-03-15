@@ -136,6 +136,9 @@ Important notes:
 | MM07. PCA | [[pdf]](Slides/COMS20017-MMLec07.pdf) |
 
 #### Week 22: 17/03/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| MM08. Convolution | [[pdf]](Slides/COMS20017-MMLec08.pdf) |
 
 #### Week 23: 17/03/2025
 
