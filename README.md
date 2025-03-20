@@ -141,8 +141,15 @@ Important notes:
 | MM08. Convolution | [[pdf]](Slides/COMS20017-MMLec08.pdf) |
 | MM09. In-Class [[QUIZ!!!]](https://www.kahoot.it)  Thursday 20th March. | Prizes for Top 3 scores!  |
 | Problem Sheet 04 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM04.pdf)  |
+| Problem Sheet 04 (Solutions) | [[pdf]](ProblemSheets/ProblemSheet-MM04-Solutions.pdf)  |
 | Code to play with  |  [[sobel.py]](ProblemSheets/sobel.py)  [[sobel.m]](ProblemSheets/sobel.m) |
 
 #### Week 23: 17/03/2025
+| ------- | ------ |
+| Monday | Bring your questions - with Majid |
+| Thursday | Bring your questions - with Alin |
 
 #### Week 24: 17/03/2025
+| ------- |
+| No Lectures |  
+| ------- | 
