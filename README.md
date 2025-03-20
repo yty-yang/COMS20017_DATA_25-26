@@ -145,11 +145,10 @@ Important notes:
 | Code to play with  |  [[sobel.py]](ProblemSheets/sobel.py)  [[sobel.m]](ProblemSheets/sobel.m) |
 
 #### Week 23: 17/03/2025
-| ------- | ------ |
+
 | Monday | Bring your questions - with Majid |
 | Thursday | Bring your questions - with Alin |
 
 #### Week 24: 17/03/2025
-| ------- |
+
 | No Lectures |  
-| ------- | 
