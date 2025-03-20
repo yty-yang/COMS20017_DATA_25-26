@@ -147,8 +147,9 @@ Important notes:
 #### Week 23: 17/03/2025
 
 | Monday | Bring your questions - with Majid |
+
 | Thursday | Bring your questions - with Alin |
 
 #### Week 24: 17/03/2025
-
+ ------- | ------ |
 | No Lectures |  
