@@ -144,12 +144,12 @@ Important notes:
 | Problem Sheet 04 (Solutions) | [[pdf]](ProblemSheets/ProblemSheet-MM04-Solutions.pdf)  |
 | Code to play with  |  [[sobel.py]](ProblemSheets/sobel.py)  [[sobel.m]](ProblemSheets/sobel.m) |
 
-#### Week 23: 17/03/2025
+#### Week 23: 24/03/2025
 
 Monday - Bring your questions - with Majid
 
-Thursday - Bring your questions - with Alin 
+Thursday - Bring your questions - with Alin
 
-#### Week 24: 17/03/2025
+#### Week 24: 31/03/2025
 
 No Lectures  
