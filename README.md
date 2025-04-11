@@ -62,7 +62,7 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 ## Past exam papers of COMS20011:
 | Year  | Paper | Answers | Questions to IGNORE! |
 | ----- | ----- | ------- | -------------------- |
-| 22/23 | [pdf](/Past_Exams/main_2223.pdf) | [pdf](/Past_Exams/main_2223_answers.pdf) |2,3,8 |
+| 22/23 | [pdf](/Past_Exams/main_2223.pdf) | [pdf](/Past_Exams/main_2223_answers.pdf) |2,3,8,18 |
 | 23/24 | [pdf](/Past_Exams/main_2324.pdf) | [pdf](/Past_Exams/main_2324_answers.pdf) |14 |
 
 Important notes:
@@ -117,6 +117,8 @@ Important notes:
 | ------- | ------ |
 | AA08. Classification | [[pdf]](Slides/COMS20017-AALec08.pdf) |
 | AA09. Regression | [[pdf]](Slides/COMS20017-AALec09.pdf) |
+| Problem Sheet - Classification & Regression | [[pdf]](ProblemSheets/ProblemSheet-AA02.pdf)  |
+| Problem Sheet - Classification & Regression - Solutions | [[pdf]](ProblemSheets/ProblemSheet-AA02-Solutions.pdf)  |
 
 ### Features (Majid)
 
