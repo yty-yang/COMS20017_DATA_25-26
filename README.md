@@ -8,9 +8,7 @@ This TB1 part of the Algorithms & Data unit will teach the basics of how to reas
 - [Alin Achim](https://amachim.blogs.bristol.ac.uk/) [alin.achim@bristol.ac.uk]
 
 ## Schedule:
-```diff
 
-```
 
 ## Lecture recordings:
 All lecture recordings eventually appear on Blackboard a few hours after the event. Click on Re/Play on the left menu bar on the BB course webpage to find them.
