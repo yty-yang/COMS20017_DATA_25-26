@@ -2,17 +2,6 @@
 This TB1 part of the Algorithms & Data unit will teach the basics of how to reason with data!
 
 
-
-<!--- to add colour!
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
--->
-
 ## Staff
 
 - [Majid Mirmehdi](http://people.cs.bris.ac.uk/~majid/) [m.mirmehdi@bristol.ac.uk]  (unit director)
@@ -44,7 +33,4 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 
 ## Weekly Lecture materials
 
-
-#### Week 24: 31/03/2025
-
-No Lectures  
+ 
