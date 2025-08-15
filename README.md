@@ -21,7 +21,7 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 
 ## Labs:
 * The labs come with exercises as Python notebooks.  
-* A new set of exercises will be released every _TWO_ weeks.
+* A new set of exercises will be released every _TWO_ weeks for a total of 4 new sets of exercises.
 * Material in the labs may appear in the exam.
 * The labs are the primary route for feedback on all aspects of the course, including lectures, any problem sheets and exams, not just the labs!
 * The lab exercises will be released in the /Labs/ folder. See top of this page.
@@ -30,7 +30,7 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 
 
 ## Teams:
-* The unit is on Teams at [[COMS20017: Algorithms & Data 24-25]](https://teams.microsoft.com/l/channel/19%3Avgs9mp3x4IUWyg7sP4Xqra9OLBtg5k8xQstCtIerRNI1%40thread.tacv2/General?groupId=afb514d3-f58e-4fef-a26f-8db851c3654a&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk. Please make sure you set NOTIFICATIONS to ON for this channel.
+* The unit is on Teams at [[COMS20017: Algorithms & Data 25-26]](https://teams.microsoft.com/l/channel/19%3Avgs9mp3x4IUWyg7sP4Xqra9OLBtg5k8xQstCtIerRNI1%40thread.tacv2/General?groupId=afb514d3-f58e-4fef-a26f-8db851c3654a&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk. Please make sure you set NOTIFICATIONS to ON for this channel.
 
 You should use the Teams channel for raising queries on any aspects of the COMS20017 Data unit - such queries will not normally be answered via email or via personal Teams messages. Please do not get upset if your query is not answered by email or Teams when sent on a one-to-one basis. Post your query on the unit's Teams channel for the benefit of others who may have the same query.
 
