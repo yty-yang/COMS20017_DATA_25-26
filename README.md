@@ -21,11 +21,11 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 
 ## Labs:
 * The labs come with exercises as Python notebooks.  
-* A new set of exercises will be released every _TWO_ weeks for a total of 4 new sets of exercises.
+* A new set of exercises will be released every _TWO_ weeks for a total of 4 new sets of exercises. The answers will be released in time for the 2nd session of each lab.
 * Material in the labs may appear in the exam.
 * The labs are the primary route for feedback on all aspects of the course, including lectures, any problem sheets and exams, not just the labs!
 * The lab exercises will be released in the /Labs/ folder. See top of this page.
-* TAs: Eddie Goodings, Thomas Divers, Jordan Frost, Ava Raisian, Conor O’Sullivan, Yu Qin, Xinyi Zheng, Lexing Zhou
+* TAs: Eddie Goodings, Jordan Frost, Ava Raisian, Archie Walton, Yu Qin, Xinyi Zheng, Conor O’Sullivan, Lexing Zhou
 
 
 
@@ -41,3 +41,16 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 ---
 
 ## Weekly Lecture materials
+
+
+### Introduction, Data Measures & Other Characteristics (Majid)
+
+#### Week 13: 13/01/2025
+| Lecture, etc. |  Slides, etc. |
+| ------- | ------ |
+| MM01. Intro to COMS20017 - a bit fishy! | [[pdf]] |
+| MM02. Sampling, Distance Measures | [[pdf]] |
+| Problem Sheet 01 (Self/Group study) | [[pdf]] |
+| Problem Sheet 01 (Solutions) | [[pdf]]  |
+<!--- to add colour!
+-->
