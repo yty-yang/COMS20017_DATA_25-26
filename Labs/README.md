@@ -9,11 +9,11 @@ Start by cloning the lab sheet to the machine you're working at (usually the loc
 
 2. Clone the lab repository from Github to your lab machine.
 ```
-git clone https://github.com/majidmirmehdi/COMS20017_DATA_24-25.git
+git clone https://github.com/majidmirmehdi/COMS20017_DATA_25-26.git
 ```
 3. Pull the repository each time before the lab to get the latest updates of the repository.
 ```
-cd COMS20017_DATA_24-25
+cd COMS20017_DATA_25-26
 git pull
 ```
 4. To start Jupyter notebooks, run
