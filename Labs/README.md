@@ -1,4 +1,4 @@
-# COMS20017_DATA_2024-25 Labs
+# COMS20017_DATA_2025-26 Labs
 
 The labs are all Jupyter Notebooks.  We recommend that you work at a lab machine, but we also give instructions for working remotely.
 
