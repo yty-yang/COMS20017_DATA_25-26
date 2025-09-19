@@ -45,7 +45,7 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 
 ### Introduction, Data Measures & Other Characteristics (Majid)
 
-#### Week 13: 13/01/2025
+#### Week 1: 22/09/2025
 | Lecture, etc. |  Slides, etc. |
 | ------- | ------ |
 | MM01. Intro to COMS20017 - a bit fishy! | [[pdf]] |
