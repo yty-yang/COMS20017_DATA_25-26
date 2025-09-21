@@ -48,8 +48,8 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 #### Week 1: 22/09/2025
 | Lecture, etc. |  Slides, etc. |
 | ------- | ------ |
-| MM01. Intro to COMS20017 - a bit fishy! | [[Slides/COMS20017-MMLec01.pdf]] |
-| MM02. Sampling, Distance Measures | [[pdf]] |
+| MM01. Intro to COMS20017 - a bit fishy! | [pdf](Slides/COMS20017-MMLec01.pdf) |
+| MM02. Sampling, Distance Measures | [pdf] |
 | Problem Sheet 01 (Self/Group study) | [[pdf]] |
 | Problem Sheet 01 (Solutions) | [[pdf]]  |
 <!--- to add colour!
