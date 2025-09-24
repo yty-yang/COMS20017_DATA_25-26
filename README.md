@@ -50,8 +50,8 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | ------- | ------ |
 | MM01. Intro to COMS20017 - a bit fishy! | [pdf](Slides/COMS20017-MMLec01.pdf) |
 | MM02. Sampling, Distance Measures | [pdf] |
-| Problem Sheet 01 (Self/Group study) | [[pdf]] |
-| Problem Sheet 01 (Solutions) | [[pdf]]  |
+| Problem Sheet 01 (Self/Group study) | [pdf](ProblemSheets/ProblemSheet-MM01.pdf) |
+| Problem Sheet 01 (Solutions) | [pdf]  |
 <!--- to add colour!
 -->
 
