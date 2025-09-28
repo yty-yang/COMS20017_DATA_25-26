@@ -51,8 +51,13 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | MM01. Intro to COMS20017 - a bit fishy! | [pdf](Slides/COMS20017-MMLec01.pdf) |
 | MM02. Sampling, Distance Measures | [pdf](Slides/COMS20017-MMLec02.pdf) |
 | Problem Sheet 01 (Self/Group study) | [pdf](ProblemSheets/ProblemSheet-MM01.pdf) |
-| Problem Sheet 01 (Solutions) | [pdf]  |
+| Problem Sheet 01 (Solutions) | [pdf](ProblemSheets/ProblemSheet-MM01-Solutions.pdf)  |
 <!--- to add colour!
 -->
 
 #### Week 2: 29/09/2025
+| Lecture, etc. |  Slides, etc. |
+| ------- | ------ |
+| MM03. Covariance, Eigen Analysis, etc. | [pdf](Slides/COMS20017-MMLec03.pdf) |
+| Problem Sheet 02 (Self/Group study) | [pdf](ProblemSheets/ProblemSheet-MM02.pdf) |
+| Problem Sheet 02 (Solutions) | [pdf]  |
