@@ -60,4 +60,4 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | ------- | ------ |
 | MM03. Covariance, Eigen Analysis, etc. | [pdf](Slides/COMS20017-MMLec03.pdf) |
 | Problem Sheet 02 (Self/Group study) | [pdf](ProblemSheets/ProblemSheet-MM02.pdf) |
-| Problem Sheet 02 (Solutions) | [pdf]  |
+| Problem Sheet 02 (Solutions) | [pdf](ProblemSheets/ProblemSheet-MM02-Solutions.pdf)  |
