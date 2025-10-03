@@ -62,3 +62,11 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | Problem Sheet 02 (Self/Group study) | [pdf](ProblemSheets/ProblemSheet-MM02.pdf) |
 | Problem Sheet 02 (Solutions) | [pdf](ProblemSheets/ProblemSheet-MM02-Solutions.pdf)  |
 | AA01. Intro to Estimation Theory | [[pdf]](Slides/COMS20017-AALec01.pdf) |
+
+### Estimation, Regression, and Classification (Alin)
+
+#### Week 3: 06/09/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| AA02. Linear Algebra Basics, Stochastic Processes | [[pdf]](Slides/COMS20017-AALec02.pdf) |
+| More mathematical preliminaries | [[pdf]](Notes/Maths_prereqs.pdf) |
