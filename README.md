@@ -70,3 +70,4 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | ------- | ------ |
 | AA02. Linear Algebra Basics, Stochastic Processes | [[pdf]](Slides/COMS20017-AALec02.pdf) |
 | More mathematical preliminaries | [[pdf]](Notes/Maths_prereqs.pdf) |
+| AA03. MVUE & CRLB | [[pdf]](Slides/COMS20017-AALec03.pdf) |
