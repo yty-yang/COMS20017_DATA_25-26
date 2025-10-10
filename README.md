@@ -65,10 +65,15 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 
 ### Estimation, Regression, and Classification (Alin)
 
-#### Week 3: 06/09/2025
+#### Week 3: 06/10/2025
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | AA02. Linear Algebra Basics, Stochastic Processes | [[pdf]](Slides/COMS20017-AALec02.pdf) |
 | More mathematical preliminaries | [[pdf]](Notes/Maths_prereqs.pdf) |
 | AA03. MVUE & CRLB | [[pdf]](Slides/COMS20017-AALec03.pdf) |
 | Problem Sheet - Parameter Estimation | [[pdf]](ProblemSheets/ProblemSheet-AA01.pdf)  |
+
+#### Week 4: 13/10/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| AA04. Maximum Likelihood Estimation (MLE) | [[pdf]](Slides/COMS20017-AALec04.pdf) |
