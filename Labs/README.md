@@ -18,7 +18,7 @@ git pull
 ```
 4. To start Jupyter notebooks, run
 ```
-/opt/anaconda3-4.4.0/bin/jupyter notebook
+/opt/anaconda/3-2025/bin/jupyter notebook
 ```
 Jupyter should automatically open a webpage. If not, open your favourite web browser and go to: `localhost:8888/notebooks`.
 
@@ -51,7 +51,7 @@ ssh -L 6006:localhost:7373 -J user@seis.bris.ac.uk user@rd-mvb-linuxlab.bristol.
 
 2. Run Jupyter Notebook on the port mapped to your local machine: 7373
 ```
-/opt/anaconda3-4.4.0/bin/jupyter notebook --no-browser --port 7373
+/opt/anaconda/3-2025/bin/jupyter notebook --no-browser --port 7373
 ```
 
 3. Open localhost:6006 in a web browser on your local machine and enter the token provided by Jupyter Notebook.
