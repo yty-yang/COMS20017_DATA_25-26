@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="DataLab" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="DataLab" project-jdk-type="Python SDK" />
+</project>
