@@ -77,3 +77,4 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | AA04. Maximum Likelihood Estimation (MLE) | [[pdf]](Slides/COMS20017-AALec04.pdf) |
+| AA05. Least Squares Estimation and the Method of Moments | [[pdf]](Slides/COMS20017-AALec05.pdf) |
